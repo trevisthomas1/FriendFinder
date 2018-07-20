@@ -6,7 +6,7 @@
 
 ## Demo
 	
-*Friend Finder* is deployed to Heroku. Please check it out [here](https://fierce-fortress-60021.herokuapp.com/).
+*Friend Finder* is deployed to Heroku. Please check it out [here](https://obscure-springs-26810.herokuapp.com/).
 
 ## Installation
 
